@@ -9,10 +9,10 @@
  * with this source code in the file LICENSE.
  */
 
-namespace Overtrue\LaravelWeChat\Events;
+namespace Xapg\LaravelWeChat\Events;
 
 use Illuminate\Queue\SerializesModels;
-use Overtrue\Socialite\User;
+use Xapg\Socialite\User;
 
 class WeChatUserAuthorized
 {

@@ -9,12 +9,12 @@
  * with this source code in the file LICENSE.
  */
 
-namespace Overtrue\LaravelWeChat\Controllers;
+namespace Xapg\LaravelWeChat\Controllers;
 
 use EasyWeChat\OpenPlatform\Application;
 use EasyWeChat\OpenPlatform\Server\Guard;
 use Event;
-use Overtrue\LaravelWeChat\Events\OpenPlatform as Events;
+use Xapg\LaravelWeChat\Events\OpenPlatform as Events;
 
 class OpenPlatformController extends Controller
 {

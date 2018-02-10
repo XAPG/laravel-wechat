@@ -1,5 +1,5 @@
 {
-    "name": "overtrue/laravel-wechat",
+    "name": "xapg/laravel-wechat",
     "description": "微信 SDK for Laravel",
     "keywords": ["wechat", "weixin","laravel", "sdk"],
     "license": "MIT",
