@@ -15,16 +15,16 @@
     },
     "autoload": {
         "psr-4": {
-            "Overtrue\\LaravelWeChat\\": "src/"
+            "Xapg\\LaravelWeChat\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Overtrue\\LaravelWeChat\\ServiceProvider"
+                "Xapg\\LaravelWeChat\\ServiceProvider"
             ],
             "aliases": {
-                "EasyWeChat": "Overtrue\\LaravelWeChat\\Facade"
+                "EasyWeChat": "Xapg\\LaravelWeChat\\Facade"
             }
         }
     }
